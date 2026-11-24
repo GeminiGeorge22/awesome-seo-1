@@ -46,6 +46,9 @@
 - [SEMrush](https://www.semrush.com/) - Provides keyword research, competitor analysis, and site auditing tools.
 - [Moz Pro](https://moz.com/products/pro) - Offers a suite of SEO tools, including keyword research, link analysis, and site auditing.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - A powerful website crawler that helps with technical SEO audits.
+- [Google Ads Transparency Scraper](https://apify.com/publicrecords/google-ads-transparency-scraper) - Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates (Apify Actor, API + MCP).
+- [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) - Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+- [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) - Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores (Apify Actor, API + MCP).
 
 ## Guides and Tutorials
 - [Google's Search Engine Optimization (SEO) Starter Guide](https://support.google.com/webmasters/answer/7451184) - A comprehensive guide by Google on the basics of SEO.
